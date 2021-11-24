@@ -23,6 +23,6 @@ sudo gcc -g -Wall -o prog prog.c -lpthread
    
 <li> Se tudo der certo, a saída do código será assim: <br>
   
-![saídaTartaruga](https://user-images.githubusercontent.com/56848726/141028449-f05602fe-61fb-4728-aa8c-a2359ae5bd7c.png)
+![output](https://user-images.githubusercontent.com/56848726/143325678-42b834d5-df6c-41f6-bbbf-bb92182e3140.png)
   
 
